@@ -30,6 +30,7 @@ Scenario 2: Given user can not see deleted transaction
 
 # Pr-requisite:
 Node Js
+Git
 Visual Studio Code
 Allure (Refere to link for installtion)
 
@@ -41,7 +42,7 @@ Allure (Refere to link for installtion)
 
 # Steps to run at your system:
 
-Clone the repository using "git clone "
+Clone the repository using "git clone" https://github.com/Ashishqa/APIAutomationCodeCeptJS.git 
 
 Open project in visual studio code then enter “npm install" command in terminal
 
