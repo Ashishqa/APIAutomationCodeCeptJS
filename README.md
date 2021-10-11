@@ -26,7 +26,11 @@ Scenario 1: Given user search transaction id for deletion
 
 Scenario 2: Given user can delete any transaction
 
-Scenario 2: Given user can not see deleted transaction
+Scenario 3: Given user can not see deleted transaction
+
+# Axios library for GET,POST,PUT,DELETE
+
+# Chai for assertion/validation
 
 # Pr-requisite:
 Node Js
