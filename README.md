@@ -1,8 +1,8 @@
 # APIAutomationCodeCeptJS
 
-Behavior Driven Development CodeceptJs - API Test automation framework including Allure reports
+CodeceptJS API Test automation framework including Allure reports
 
-This framework contains API Transaction code containing:
+This framework contains API testing Transactions code containing:
 
 1 feature 9 Scenarios
 
